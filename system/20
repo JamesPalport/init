@@ -1,1 +1,2 @@
-getent passwd
+cat /etc/passwd
+#getent psswd marche aussi

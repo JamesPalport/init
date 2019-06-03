@@ -1,1 +1,2 @@
-en graphique il suffit de se log out puis log in sur l'autre session\nEn ssh il suffit d'utiliser sudo ssh
+en graphique il suffit de se log out puis log in sur l'autre session
+En ssh il suffit d'utiliser sudo ssh

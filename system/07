@@ -1,1 +1,1 @@
-ps -C ssh
+ps -C sshd -o pid=

@@ -1,2 +1,5 @@
 #!/bin/sh
-sudo userdel -rf username
+echo 'username'
+read username
+sudo pkill --signal KILL -u $username
+sudo userdel -rf $username
